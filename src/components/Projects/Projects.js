@@ -36,7 +36,7 @@ function Projects() {
               title="To-do list"
               description="This is a simple todo list website, where you can add your daily task to do"
               ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://637e0372beecb422d8b43795--glittery-mandazi-4f67b2.netlify.app/"              
+              demoLink="https://mudassir-todo-app.netlify.app/"              
             />
           </Col>
 
