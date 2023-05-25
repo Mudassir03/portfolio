@@ -28,26 +28,7 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <br/>
-            <hr style={{color:'black'}}/>
-            <br/>
-            <br/>
-            <h1 style={{color:'black'}}>Public opinions</h1>
-            <br/>
-            <br/>
-            <hr style={{color:'black'}}/>
-            <img src={po} alt=""/>
+        
            
           </Col>
         </Row>
