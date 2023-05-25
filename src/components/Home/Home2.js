@@ -47,7 +47,7 @@ function Home2() {
             <br/>
             <br/>
             <hr style={{color:'black'}}/>
-            <img width={800} src={po} alt=""/>
+            <img src={po} alt=""/>
            
           </Col>
         </Row>
