@@ -26,12 +26,7 @@ function Home2() {
             </Tilt>
           </Col>
         </Row>
-        <Row>
-          <Col md={12} className="home-about-social">
         
-           
-          </Col>
-        </Row>
       </Container>
     </Container>
   );
